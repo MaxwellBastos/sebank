@@ -6,4 +6,6 @@ No entanto, graças ao desenvolvimento de técnicas de aprendizado de máquina, 
 
 
 # O banco e a solução do problema
-Para simular e contextualizar nosso problema, criamos um banco fictício chamado "Sebank" que está passando por problemas de altas taxas de inadimplência e para evitar problemas como esse, nosso objetivo é criar um algoritmo de Machine Learning capaz de classificar pessoas que arcarão com suas dívidas em caso de aprovação de créditos e empréstimos. Para relosução completa aqui.
+Para simular e contextualizar nosso problema, criamos um banco fictício chamado "Sebank" que está passando por problemas de altas taxas de inadimplência e para evitar problemas como esse, nosso objetivo é criar um algoritmo de Machine Learning capaz de classificar pessoas que arcarão com suas dívidas em caso de aprovação de créditos e empréstimos. 
+
+Para relosução completa: [Sebank - ML code](https://github.com/MaxwellBastos/sebank/blob/main/ML_Risco_de_Cr%C3%A9dito.ipynb).
