@@ -1,4 +1,4 @@
-# # Avalição de Crédito de Risco
+# Avalição de Crédito de Risco
 Dificuldades com organização financeira é um problema constante que acaba afetando grande parte da população. Isso consequentemente leva as altas taxas de inadimplência enfrentadas pelos bancos perante seus clientes.
 
 
@@ -8,4 +8,7 @@ No entanto, graças ao desenvolvimento de técnicas de aprendizado de máquina, 
 # O banco e a solução do problema
 Para simular e contextualizar nosso problema, criamos um banco fictício chamado "Sebank" que está passando por problemas de altas taxas de inadimplência e para evitar problemas como esse, nosso objetivo é criar um algoritmo de Machine Learning capaz de classificar pessoas que arcarão com suas dívidas em caso de aprovação de créditos e empréstimos. 
 
-Para relosução completa: [Sebank - ML code](https://github.com/MaxwellBastos/sebank/blob/main/ML_Risco_de_Cr%C3%A9dito.ipynb).
+Para relosução completa: [Sebank - ML Code](https://github.com/MaxwellBastos/sebank/blob/main/ML_Risco_de_Cr%C3%A9dito.ipynb).
+![alt text](https://cdn.discordapp.com/attachments/990816843709173800/1073659503477797035/Alcibiades_The_sign_of_a_bank_branch_called_SECBANK_with_a_very_b8c30a53-c753-4d7d-952e-81286aa09f50_2.png)
+
+
